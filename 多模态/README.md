@@ -11,4 +11,4 @@ AI developer competiton
 
 线上得分 0.29675
 
-![image-20200722141420715](C:\Users\Harrison\AppData\Roaming\Typora\typora-user-images\image-20200722141420715.png)
+![](../pics/mul.png)
